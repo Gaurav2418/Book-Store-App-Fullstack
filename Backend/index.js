@@ -21,5 +21,5 @@ app.use('/book', bookRoute);
 
 
 app.listen(port, ()=>{
-    console.log(`app is listining on ${port}` )
+    console.log(`app is listining on ${port}` );
 });
