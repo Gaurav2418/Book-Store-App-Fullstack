@@ -3,7 +3,8 @@ The Book Store application is a Node.js-based system developed using the Express
 
 # Endpoints
 ### Add a Book
--Endpoint: POST /book
+-Endpoint: POST /book.
+
 -Description: Adds a book to the system with details such as Title, Author, Book Publish Year, etc.
 
 ### Get All Books
