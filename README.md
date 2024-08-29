@@ -27,3 +27,4 @@ The Book Store application is a Node.js-based system developed using the Express
 
 -Description: Deletes a book from the system based on its ID.
 
+note- (Project is completed with backend and I am working on frontend as soon as I complete it, I'll keep this repo updated).
